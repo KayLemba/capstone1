@@ -7,11 +7,13 @@
 ## The Burning Circle Airshow
 
 ** An air show is a public event where aircraft are exhibited. They often include aerobatics demonstrations, without they are called "static air shows" with aircraft parked on the ground. ** 
-
+# WORK FLOW SCREEN SHOTS
+![screenshot](./images/workflowcap1.png)
+![screenshot](./images/workflowcap2.png)
 ## Live Demo Link for Github-Page Branch
 
 [Click Here to view presentation video](https://www.loom.com/share/e758342b0ac54e88a4a6179a7bd1a1c0)
-[Click Here to view live version](https://mwanawabangona.github.io/capstone/)
+[Click Here to view live version](https://kaylemba.github.io/capstone1/)
 ## Built With
 ### Major languages
 - HTML
@@ -24,16 +26,21 @@
 - Visual Studio Code
 
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
-git clone https://github.com/mwanawabangona/capstone cd capstone
+*Instructions on how to access my project locally.**
+ To Access my project locally please follow the following instructions;
+1. Enter this url: https://kaylemba.github.io/capstone1/ in your web browser.
+2. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
+3. Select download Zip option from drop down menu.
+4. Once the download is complete you will be able to access my project locally.
+Here is my repository link: https://kaylemba.github.io/capstone1/
 
 
 ## Author
 👤 Kalolo Chola Lemba
 
-- GitHub: [@mwanawabangona ](https://github.com/faizi2500)
-- Twitter: [@ellis_aah ](https://twitter.com/Faizy_250) 
-- LinkedIn: [@Ellis Ngona](www.linkedin.com)
+- GitHub: [@KayLemba ](https://github.com/KayLemba)
+- Twitter: [@King-Kaylo1 ](https://twitter.com/King_Kaylo1) 
+- LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/https://www.linkedin.com/in/kalolo-lemba-41a8339a/-41a8339a/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
