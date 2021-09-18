@@ -1,76 +1,51 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Capstone Project
+
+> This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Projects are done at the end of a module at Microverse. It inolves everything we learnt through the module.
+
 
 # Project Name
+## The Burning Circle Airshow
 
-> One paragraph statement about the project.
+** An air show is a public event where aircraft are exhibited. They often include aerobatics demonstrations, without they are called "static air shows" with aircraft parked on the ground. ** 
 
-![screenshot](./app_screenshot.png)
+## Live Demo Link for Github-Page Branch
 
-Additional description about the project and its features.
-
+[Click Here to view presentation video](https://www.loom.com/share/e758342b0ac54e88a4a6179a7bd1a1c0)
+[Click Here to view live version](https://mwanawabangona.github.io/capstone/)
 ## Built With
+### Major languages
+- HTML
+- CSS
+- Javascript
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+### Technologies used
+- Github
+- Git
+- Visual Studio Code
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+git clone https://github.com/mwanawabangona/capstone cd capstone
 
 
+## Author
+👤 Kalolo Chola Lemba
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mwanawabangona ](https://github.com/faizi2500)
+- Twitter: [@ellis_aah ](https://twitter.com/Faizy_250) 
+- LinkedIn: [@Ellis Ngona](www.linkedin.com)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+Feel free to check the issues page.
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+[Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) whose design template was used is used for this project.
 
-## 📝 License
+## Show your support
+Give a ⭐️ if you like this project!
 
-This project is [MIT](./MIT.md) licensed.
+📝 License
+This project is MIT licensed.
