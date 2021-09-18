@@ -93,6 +93,13 @@ p {
   padding: 1.5rem 0;
 }
 
+.icon {
+  width: 50px;
+  height: 5px;
+  margin: 5px 0;
+  background-color: black;
+}
+
 .home a {
   text-decoration: none;
   color: black;
@@ -536,5 +543,12 @@ footer {
 
   .copy-right {
     color: white;
+  }
+
+  .icon {
+    width: 50px;
+    height: 5px;
+    margin: 5px 0;
+    background-color: #fff;
   }
 }
