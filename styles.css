@@ -10,6 +10,7 @@ body {
   margin: 0;
   font-size: 16px;
   font-family: "lato", sans-serif;
+  overflow-x: hidden;
 }
 
 .date {
@@ -149,7 +150,7 @@ p {
 }
 
 .section-one {
-  background-image: url(images/513019.jpg);
+  background-image: url(images/703269.jpg);
   background-repeat: no-repeat;
   background-position: center;
   height: 137%;
@@ -188,7 +189,7 @@ p {
 h3 {
   font-family: 'cocogoose', sans-serif;
   font-size: 1.84rem;
-  color: #333;
+  color: #fff;
 }
 
 .venue {
