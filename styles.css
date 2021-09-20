@@ -147,10 +147,11 @@ p {
 
 .fa-bars {
   font-size: 2rem;
+  color: #fff;
 }
 
 .section-one {
-  background-image: url(images/703269.jpg);
+  background-image: url(images/513019.jpg);
   background-repeat: no-repeat;
   background-position: center;
   height: 137%;
@@ -395,7 +396,7 @@ footer {
 
 .copy-right {
   font-size: 1rem;
-  margin: 0;
+  margin: 20px;
 }
 
 @media only screen and (min-width: 768px) {

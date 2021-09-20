@@ -44,7 +44,7 @@ const data = [
     pic: './images/reagan.png',
     altText: 'featured speaker image',
     nameOfSpeaker: 'Reagan Storch',
-    designation: 'Zambian born experienced photographer and Graphic Designer with 15 years',
+    designation: 'Zambian born experienced photographer and Graphic Designer with 15 years experience',
     history: 'He is a photographer, graphic designer, Burning cirle airshow sponsor and the founder of International studios.',
   },
 ];
