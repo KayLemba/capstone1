@@ -94,10 +94,10 @@ p {
 }
 
 .icon {
-  width: 50px;
+  width: 30px;
   height: 5px;
   margin: 5px 0;
-  background-color: black;
+  background-color: #f7f7f8;
 }
 
 .home a {
@@ -546,9 +546,9 @@ footer {
   }
 
   .icon {
-    width: 50px;
+    width: 30px;
     height: 5px;
     margin: 5px 0;
-    background-color: white;
+    background-color: #f7f7f8;
   }
 }
