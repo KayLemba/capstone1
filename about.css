@@ -97,7 +97,7 @@ p {
   width: 30px;
   height: 5px;
   margin: 5px 0;
-  background-color: #f7f7f8;
+  background-color: #ec5242;
 }
 
 .home a {
@@ -275,6 +275,12 @@ footer {
   font-size: 1rem;
   margin: 25px;
   color: #fff;
+}
+
+.plane {
+  width: auto;
+  height: 45px;
+  margin-left: -50%;
 }
 
 .desktop-para {

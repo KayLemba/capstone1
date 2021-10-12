@@ -147,7 +147,7 @@ p {
 
 .fa-bars {
   font-size: 2rem;
-  color: #fff;
+  color: #ec5242;
 }
 
 .section-one {
@@ -195,7 +195,7 @@ h3 {
 
 .venue {
   font-size: 1.12rem;
-  color: #d3d3d3;
+  color: #000;
   font-weight: 700;
   margin-bottom: -5%;
 }
@@ -210,6 +210,12 @@ h3 {
   width: 95%;
   margin-inline: auto;
   margin-top: 10%;
+}
+
+.plane {
+  width: auto;
+  height: 45px;
+  margin-left: 13%;
 }
 
 .heading2 {
